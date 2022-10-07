@@ -45,7 +45,7 @@ extraction: extracted September 26st, 2022 for a report of the situation at the 
 REPOSITORY’S FILES
 
 - File “README.md”
--	File “donnees-hospitalieres-covid-19-dep-france.csv” – hospital data file gathered and provided by opendatasoft.com website.
+-	File “donnees-hospitalieres-covid-19-dep-france.zip” – This a csv file providing hospital data file gathered and provided by opendatasoft.com website.
 -	File “project_01_main_v20220927.ipynb” – Jupyter notebook file containing python script for reading, modeling and analyze data.
 
 In the python script, change boolean value of the variable 'use_full_data_set' to get appropriate observation results: False for items 1 and 2 ; True for item 3.
