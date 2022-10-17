@@ -133,5 +133,5 @@ Dataset credit: Santé Publique France
 
 LEGAL / LICENSE:
 
-License: Licence Ouverte v2.0
-Reuse and exploitation of source data: https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
+- License: Licence Ouverte v2.0
+- Reuse and exploitation of source data: https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
