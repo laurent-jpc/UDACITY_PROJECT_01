@@ -8,6 +8,11 @@ TITLE:
 Go through COVID-19 during hospitalizations in France: attention fully focused on patients.
 
 
+PROJECT MOTIVATION
+
+Through this project I would make a first step in the data science approach. In addition, I was requested to use professional tools to transmit this work which is new for me. It will improve my capacity to communicate my project to my colleagues in a proper way.
+In parallel, I would also have my own vie on Covid-198 figures since we heard a lot about this topic since a long time now, but I did not access to the real figures directly from hospitals. Which is now done!
+
 
 DESCRIPTION:
 
