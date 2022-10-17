@@ -126,6 +126,12 @@ DATA SOURCE:
 - Link: https://data.opendatasoft.com/explore/dataset/donnees-hospitalieres-covid-19-dep-france%40public/export/?flg=fr&disjunctive.countrycode_iso_3166_1_alpha3&disjunctive.nom_dep_min, extracted September 26st, 2022 for a report of the situation at the same date
 
 
-LEGAL:
+ACKNOWLEDGEMENTS:
 
+Dataset credit: Santé Publique France
+
+
+LEGAL / LICENSE:
+
+License: Licence Ouverte v2.0
 Reuse and exploitation of source data: https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf
