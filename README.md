@@ -128,7 +128,7 @@ DATA SOURCE:
 
 ACKNOWLEDGEMENTS:
 
-Dataset credit: Santé Publique France
+- Dataset credit: Santé Publique France
 
 
 LEGAL / LICENSE:
